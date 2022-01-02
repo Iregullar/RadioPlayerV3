@@ -3,11 +3,11 @@ wheel
 psutil
 heroku3
 requests
-tgcrypto
+tgcrypt
 ffmpeg-python
 python-dotenv
 youtube_search
 youtube_search_python
-pytgcalls==3.0.0.dev19
+pytgcalls==3.0.0.dev1
 git+https://github.com/asmsafone/downloader
 git+https://github.com/asmsafone/pyrogram@master
